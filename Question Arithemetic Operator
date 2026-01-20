@@ -1,0 +1,405 @@
+🧮 Part 1: Basic Arithmetic (1–50)
+
+Write a program to add two numbers.
+
+Write a program to subtract two numbers.
+
+Write a program to multiply two numbers.
+
+Write a program to divide two numbers and display the quotient.
+
+Write a program to divide two numbers and display the remainder.
+
+Write a program to find the average of two numbers.
+
+Write a program to find the square of a number.
+
+Write a program to find the cube of a number.
+
+Write a program to add three numbers.
+
+Write a program to find the average of five numbers.
+
+Write a program to convert minutes into hours and minutes.
+
+Write a program to calculate the area of a rectangle.
+
+Write a program to calculate the perimeter of a rectangle.
+
+Write a program to calculate the area of a circle.
+
+Write a program to calculate the circumference of a circle.
+
+Write a program to calculate the area of a triangle.
+
+Write a program to calculate the simple interest.
+
+Write a program to calculate compound interest.
+
+Write a program to calculate the total marks and average of three subjects.
+
+Write a program to convert Celsius to Fahrenheit.
+
+Write a program to convert Fahrenheit to Celsius.
+
+Write a program to calculate the volume of a cube.
+
+Write a program to calculate the volume of a cylinder.
+
+Write a program to calculate the surface area of a cube.
+
+Write a program to calculate the area of a square.
+
+Write a program to find the remainder when a number is divided by another.
+
+Write a program to calculate profit or loss.
+
+Write a program to calculate the discount on a product.
+
+Write a program to calculate final price after discount.
+
+Write a program to convert days into years, weeks, and days.
+
+Write a program to swap two numbers using a temporary variable.
+
+Write a program to swap two numbers without using a temporary variable.
+
+Write a program to find the sum of digits of a number.
+
+Write a program to reverse a number.
+
+Write a program to find the product of digits of a number.
+
+Write a program to find the average of n numbers (user input).
+
+Write a program to calculate percentage marks of a student.
+
+Write a program to find the gross salary given basic, DA, and HRA.
+
+Write a program to convert kilometers into meters.
+
+Write a program to convert seconds into hours, minutes, and seconds.
+
+Write a program to find the power of a number.
+
+Write a program to calculate the square root of a number.
+
+Write a program to calculate the cube root of a number.
+
+Write a program to find the sum of first n natural numbers.
+
+Write a program to find the sum of squares of first n numbers.
+
+Write a program to find the sum of cubes of first n numbers.
+
+Write a program to find the arithmetic mean of numbers in a list.
+
+Write a program to calculate BMI from height and weight.
+
+Write a program to convert meters into centimeters and millimeters.
+
+Write a program to calculate the total bill with tax added.
+
+⚖ Part 2: Comparison Operators (51–100)
+
+Write a program to compare two numbers and print the larger one.
+
+Write a program to check if two numbers are equal.
+
+Write a program to find the smaller of two numbers.
+
+Write a program to check whether a number is positive or negative.
+
+Write a program to check whether a number is even or odd.
+
+Write a program to check if a number is divisible by 5.
+
+Write a program to check if a number is divisible by both 3 and 5.
+
+Write a program to check if a number is a multiple of 10.
+
+Write a program to check if a number is greater than 100.
+
+Write a program to compare three numbers and find the largest.
+
+Write a program to find the smallest among three numbers.
+
+Write a program to check if a number lies between 10 and 50.
+
+Write a program to check if a person is eligible to vote.
+
+Write a program to check if a student passed or failed (>= 40 pass).
+
+Write a program to check if a year is a leap year.
+
+Write a program to check if two numbers are not equal.
+
+Write a program to check if a character is uppercase or lowercase.
+
+Write a program to check if a number is a single, double, or triple-digit number.
+
+Write a program to compare two fractions (a/b vs c/d).
+
+Write a program to check if three sides form a valid triangle.
+
+Write a program to check if a triangle is equilateral.
+
+Write a program to check if a triangle is isosceles.
+
+Write a program to check if a triangle is scalene.
+
+Write a program to check if a number is greater than the sum of two others.
+
+Write a program to check if the given time (hours) is morning, afternoon, or evening.
+
+Write a program to check if a number is equal to its reverse (palindrome).
+
+Write a program to compare the sum and product of digits of a number.
+
+Write a program to check if a number is a perfect square.
+
+Write a program to check if a number is divisible by 2 and 3 but not 5.
+
+Write a program to check if two numbers have the same remainder when divided by a third.
+
+Write a program to check if the first number is greater than twice the second.
+
+Write a program to check if three numbers are in ascending order.
+
+Write a program to check if three numbers are in descending order.
+
+Write a program to check if a number is between two others inclusively.
+
+Write a program to check if two numbers are within 10 of each other.
+
+Write a program to check if two numbers are opposites (sum to zero).
+
+Write a program to check if a person qualifies for a loan based on salary and credit score.
+
+Write a program to compare the areas of two rectangles.
+
+Write a program to compare the perimeters of two circles.
+
+Write a program to check if a number is greater than the average of two others.
+
+Write a program to check if the difference between two numbers is less than 10.
+
+Write a program to check if a number is exactly double another.
+
+Write a program to check if a number is equal to its square’s last digit.
+
+Write a program to check if the sum of two numbers equals a third number.
+
+Write a program to check if the average of two numbers equals a third number.
+
+Write a program to check if a temperature is below freezing point.
+
+Write a program to check if a given time is AM or PM.
+
+Write a program to check if a score is a new record (greater than previous).
+
+Write a program to check if two given prices are approximately equal (difference < 0.01).
+
+Write a program to check if a number is within the range of 1–100 inclusive.
+
+🧠 Part 3: Mixed Arithmetic + Comparison (101–200)
+
+Write a program to calculate and compare two students’ averages.
+
+Write a program to compare the areas of two triangles.
+
+Write a program to find which rectangle has a greater area given width and height.
+
+Write a program to calculate which item has the best price per unit weight.
+
+Write a program to check if the sum of digits of a number is even or odd.
+
+Write a program to check if the cube of a number is greater than 1000.
+
+Write a program to calculate BMI and check if the user is underweight, normal, or overweight.
+
+Write a program to calculate the final bill with discount and compare it with another store’s price.
+
+Write a program to compute the interest for two banks and compare which one is better.
+
+Write a program to check if a number equals the sum of its digits.
+
+Write a program to check if a number is greater than the sum of its digits.
+
+Write a program to calculate electricity bill and check if it exceeds a threshold.
+
+Write a program to calculate average marks and assign grades (A, B, C, D, F).
+
+Write a program to compute speed and check if it exceeds the speed limit.
+
+Write a program to compare the efficiency of two machines (output/input).
+
+Write a program to find whether the profit percentage exceeds 20%.
+
+Write a program to check if a number’s square is greater than itself.
+
+Write a program to calculate the total distance covered and compare with a target.
+
+Write a program to check if a student’s marks increased compared to last year.
+
+Write a program to compare the simple and compound interest for the same principal.
+
+Write a program to check if a person’s age is half of another’s.
+
+Write a program to calculate time taken for two vehicles and compare who was faster.
+
+Write a program to find if perimeter > area for a rectangle.
+
+Write a program to check if (a+b)² equals a² + 2ab + b².
+
+Write a program to check if the sum of two odd numbers is even.
+
+Write a program to check if the product of two negative numbers is positive.
+
+Write a program to check if increasing the price by 10% exceeds a limit.
+
+Write a program to compute the grade point average (GPA) and check if eligible for honors.
+
+Write a program to calculate average rainfall and check if above normal.
+
+Write a program to check if the cost per item is decreasing with quantity.
+
+Write a program to check if today’s temperature is higher than yesterday’s average.
+
+Write a program to check if 3 numbers can form a Pythagorean triplet.
+
+Write a program to check if two angles are complementary.
+
+Write a program to check if two angles are supplementary.
+
+Write a program to check if the difference between two cubes equals a³−b³.
+
+Write a program to check if the square of a number ends with 25.
+
+Write a program to compute the average speed and check if below 60 km/h.
+
+Write a program to check if the ratio of two numbers equals 2:3.
+
+Write a program to calculate the area of a trapezium and compare with a rectangle.
+
+Write a program to compute hourly wage and check if it exceeds $15/hr.
+
+Write a program to check if the cost of 5 pens equals cost of 2 books.
+
+Write a program to check if (a+b)³ equals a³ + 3a²b + 3ab² + b³.
+
+Write a program to check if an employee’s bonus > 10% of salary.
+
+Write a program to check if the average of three numbers is greater than 50.
+
+Write a program to check if product of three numbers > sum of same numbers.
+
+Write a program to check if (a² + b²) > (2ab).
+
+Write a program to check if a rectangle can fit inside another given dimensions.
+
+Write a program to compute area-to-perimeter ratio and compare two shapes.
+
+Write a program to check if selling price > cost price (profit).
+
+Write a program to check if loss > 10%.
+
+Write a program to check if a train reached before the scheduled time.
+
+Write a program to check if the absolute difference between two numbers is less than 5.
+
+Write a program to compute the average of top 3 numbers out of 5.
+
+Write a program to check if all three numbers are equal.
+
+Write a program to check if any two of three numbers are equal.
+
+Write a program to find if sum of two smallest numbers > third number.
+
+Write a program to check if a student’s total score is greater than class average.
+
+Write a program to find if profit percentage > discount percentage.
+
+Write a program to compute daily wages and compare with minimum wage.
+
+Write a program to check if two floating-point numbers are approximately equal.
+
+Write a program to check if the perimeter of square equals perimeter of rectangle.
+
+Write a program to check if area of circle equals area of square.
+
+Write a program to compute performance ratio and compare two workers.
+
+Write a program to check if average rainfall this month > last month.
+
+Write a program to check if a car’s mileage improved compared to last year.
+
+Write a program to find if total expense is within budget.
+
+Write a program to check if monthly saving exceeds $1000.
+
+Write a program to compare fuel consumption of two cars.
+
+Write a program to check if a triangle is right-angled.
+
+Write a program to find if sum of angles equals 180.
+
+Write a program to compare two students’ math scores.
+
+Write a program to check if a product’s price after tax > $500.
+
+Write a program to find if new salary after increment > previous salary.
+
+Write a program to check if two rectangles have the same area but different perimeter.
+
+Write a program to check if the discount brings price below $100.
+
+Write a program to compute cost per kilometer and check if under $2/km.
+
+Write a program to check if the cube of sum equals sum of cubes.
+
+Write a program to check if sum of squares equals square of sum.
+
+Write a program to check if average of even numbers equals average of odd numbers.
+
+Write a program to check if total marks exceed the passing total.
+
+Write a program to check if monthly rent exceeds one-third of income.
+
+Write a program to calculate net salary and compare with another employee.
+
+Write a program to check if interest rate doubled over two years.
+
+Write a program to compute growth rate and check if above 10%.
+
+Write a program to check if one rectangle’s area is twice another’s.
+
+Write a program to check if a machine’s output increased by 15%.
+
+Write a program to compare two students’ percentage marks.
+
+Write a program to compute efficiency = output/input and compare two systems.
+
+Write a program to check if average price > median price.
+
+Write a program to check if total marks are divisible by 9.
+
+Write a program to check if sum of first and last digit equals middle digit.
+
+Write a program to compare the sum of two pairs of numbers.
+
+Write a program to find which of two expressions gives a higher value.
+
+Write a program to check if a rectangle’s diagonal > 10 units.
+
+Write a program to check if cost per liter of two products is the same.
+
+Write a program to check if time taken for task A < task B.
+
+Write a program to compare total expenses of two trips.
+
+Write a program to check if the square of sum minus sum of squares equals 2ab.
+
+Write a program to check if total revenue exceeds target.
+
+Write a program to check if profit margin > 25%.
