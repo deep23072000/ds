@@ -1,0 +1,112 @@
+🔁 Python Practice Problems – Loops (for, while, nested loops)
+
+Write a program to print numbers from 1 to 100 using a loop.
+
+Write a program to print even numbers between 1 and 50.
+
+Write a program to print the sum of the first 10 natural numbers.
+
+Write a program to print the multiplication table of a given number.
+
+Write a program to print all numbers divisible by 7 between 1 and 200.
+
+Write a program to print the first 20 odd numbers.
+
+Write a program to calculate the factorial of a given number.
+
+Write a program to print the digits of a number one by one.
+
+Write a program to count the number of digits in a number.
+
+Write a program to reverse a number using a loop.
+
+Write a program to print the Fibonacci series up to N terms.
+
+Write a program to find the sum of digits of a number.
+
+Write a program to find the product of digits of a number.
+
+Write a program to check if a number is a palindrome using loops.
+
+Write a program to print all prime numbers between 1 and 100.
+
+Write a program to check if a given number is prime using a loop.
+
+Write a program to calculate the power of a number using a loop.
+
+Write a program to count how many times a character appears in a string.
+
+Write a program to remove all vowels from a string using loops.
+
+Write a program to find the largest and smallest number in a list using loops.
+
+Write a program to print the sum of all elements in a list using a loop.
+
+Write a program to print the index of each element in a list using a loop.
+
+Write a program to check if a list is sorted (ascending) using a loop.
+
+Write a program to print all elements of a nested list using nested loops.
+
+Write a program to print a string in reverse without using slicing.
+
+Print this pattern:
+
+*
+**
+***
+****
+
+
+Print this pattern:
+
+****
+***
+**
+*
+
+
+Print this pattern:
+
+1
+12
+123
+1234
+
+Write a program to print all Armstrong numbers between 1 and 1000.
+
+Write a program to count how many words are in a sentence using a loop.
+
+Write a program to find the longest word in a list using a loop.
+
+Write a program to simulate a simple login system with 3 attempts using a while loop.
+
+Write a program to check if a string is a palindrome using only loops (no slicing).
+
+Write a program to remove duplicates from a list using loops.
+
+Write a program to merge two lists manually using loops (no built-in methods).
+
+Write a program to compute the average of numbers until the user enters 0.
+
+Write a program to print all perfect numbers between 1 and 500.
+
+Write a program to determine if a number is strong (sum of factorials of digits = number).
+
+Write a program to print the series:
+
+1, 4, 9, 16, 25, … (first N squares)
+
+
+Write a program to print:
+
+2, 4, 8, 16, 32, … (N terms)
+
+
+Write a program to simulate a countdown timer.
+
+Write a program to rotate a list to the right by 1 using loops only.
+
+Write a program to find the frequency of each character in a string using loops.
+
+Write a program to print all substrings of a given string using nested loops.
