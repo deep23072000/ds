@@ -1,0 +1,67 @@
+Tuple – Programming Practice (10 Problems)
+
+Write a program to create a tuple and print all elements using a loop.
+
+Write a program to find the length of a tuple.
+
+Write a program to find the maximum and minimum element in a tuple.
+
+Write a program to count the occurrence of an element in a tuple.
+
+Write a program to reverse a tuple.
+
+Write a program to check if an element exists in a tuple.
+
+Write a program to convert a tuple into a list.
+
+Write a program to find the sum of all elements in a tuple.
+
+Write a program to unpack a tuple into variables.
+
+Write a program to remove duplicates from a tuple.
+
+#####################################################################################################################
+🟨 Dictionary – Programming Practice (10 Problems)
+
+Write a program to create a dictionary and print all key–value pairs.
+
+Write a program to add a new key-value pair to a dictionary.
+
+Write a program to update the value of an existing key.
+
+Write a program to delete a key from a dictionary.
+
+Write a program to check if a key exists in a dictionary.
+
+Write a program to count the frequency of elements in a list using a dictionary.
+
+Write a program to find the key with the maximum value.
+
+Write a program to merge two dictionaries.
+
+Write a program to sort a dictionary by keys.
+
+Write a program to create a dictionary from two lists.
+
+#########################################################################################################################################################
+🟩 Set – Programming Practice (10 Problems)
+
+Write a program to create a set and print its elements.
+
+Write a program to add elements to a set.
+
+Write a program to remove an element from a set.
+
+Write a program to find the union of two sets.
+
+Write a program to find the intersection of two sets.
+
+Write a program to find the difference between two sets.
+
+Write a program to check if a set is a subset of another set.
+
+Write a program to remove duplicates from a list using a set.
+
+Write a program to find common elements in two lists using sets.
+
+Write a program to count unique elements in a list.
